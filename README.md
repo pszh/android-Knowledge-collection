@@ -9,8 +9,8 @@
 <h3>仿网易云音乐UI</h3>
 <a href="https://github.com/youlookwhat/CloudReader">传送门</a>
 
-<h3></h3>
-<a href=""></a>
+<h3>我的吱吱：视频图片新闻</h3>
+<a href="https://github.com/LuoboDcom/ZZShow">传送门</a>
 
 <h3></h3>
 <a href=""></a>
