@@ -1,4 +1,6 @@
 # learn-github-project
+<h3>阅读源码的经验总结</h3>
+<a href="http://www.jianshu.com/p/be86e5678252">传送门</a>
 <h1>一些比较好的project </h1>
 <h3>goolgle的Samples关网 </h3>
 <a href="https://github.com/googlesamples?page=1"> 传送门</a>
