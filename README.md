@@ -21,5 +21,15 @@
 <h3>一个比较好的android流行框架速查表</h3>
 <a href="http://www.ctolib.com/cheatsheets-Android-ch.html">传送门</a>
 
-<h3></h3>
-<a href=""></a>
+<h3>一步步打造万能的 Android 刮奖效果控件</h3>
+<a href="https://www.diycode.cc/topics/287">传送门</a>
+<img src="https://diycode.b0.upaiyun.com/photo/2016/227a46ac5c83c6fca1f8e423e5788c6b.gif"/>
+
+<h3>仿全民TV  基于MVP的Retrofit2(okhttp3)+rxjava+dagger2+greendao+glide+rtmp直播</h3>
+<a href="https://github.com/a371166028/likequanmintv">传送门</a>
+<img src="https://camo.githubusercontent.com/d6aee7389ceecc64132eda7f31cfc97a18c1a0ce/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313631323031303935303130393739"/>
+
+<h3>给Android Studio创建自己的模板 </h3>
+<a href="https://github.com/a371166028/android-studio-template">传送门</a>
+<img src="https://camo.githubusercontent.com/237f0a1fbbf370efcbaff804f0b5fb8b7253ee49/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313631313038313830323435303933">
+
