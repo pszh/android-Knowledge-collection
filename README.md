@@ -30,6 +30,6 @@
 <img src="https://camo.githubusercontent.com/d6aee7389ceecc64132eda7f31cfc97a18c1a0ce/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313631323031303935303130393739"/>
 
 <h3>给Android Studio创建自己的模板 </h3>
-<a href="https://github.com/a371166028/android-studio-template">传送门</a>
+<a href="https://github.com/a371166028/android-studio-template">传送门 里面有一些模版的例子</a>
 <img src="https://camo.githubusercontent.com/237f0a1fbbf370efcbaff804f0b5fb8b7253ee49/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313631313038313830323435303933">
-
+<a href=“http://www.jianshu.com/p/c76facb61d69”>如何制作模版</a>
