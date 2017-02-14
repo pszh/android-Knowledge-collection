@@ -33,3 +33,7 @@
 <a href="https://github.com/a371166028/android-studio-template">传送门 里面有一些模版的例子</a></br>
 <a href="https://www.jianshu.com/p/c76facb61d69">如何制作模版</a>
 <img src="https://camo.githubusercontent.com/237f0a1fbbf370efcbaff804f0b5fb8b7253ee49/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313631313038313830323435303933"/>
+
+<h3>消息气泡效果</h3>
+<a href="https://github.com/qstumn/BadgeView">传送门  可以自由定制外观、支持拖拽消除的MaterialDesign风格</a></br>
+<img src="https://github.com/qstumn/BadgeView/raw/master/demo_gif.gif?raw=true"/>
