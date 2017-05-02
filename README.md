@@ -48,4 +48,18 @@
 
 <h3>消息气泡效果</h3>
 <a href="https://github.com/qstumn/BadgeView">传送门  可以自由定制外观、支持拖拽消除的MaterialDesign风格</a></br>
-<img src="https://github.com/qstumn/BadgeView/raw/master/demo_gif.gif?raw=true"/>
+<img src="https://github.com/qstumn/BadgeView/raw/master/demo_gif.gif?raw=true"/></br>
+<h1>图片选择器 包括视屏</h1>
+  <h3>高仿微信图片选择相册ImagePicker</h3>
+  <a href="https://github.com/jeasonlzy/ImagePicker">传送门  实现了拍照、图片选择（单选/多选）、 裁剪 、旋转、等功能</a></br>
+  <img src="http://7xss53.com2.z0.glb.clouddn.com/imagepicker/demo2.gif"/></br>
+  
+  <h3>图片，视屏的选择 PictureSelector</h3>
+  <a href="https://github.com/LuckSiege/PictureSelector">传送门  android多图选择器 图片/视频 单选or多选，以及视频录制</a></br>
+  <img src="https://github.com/LuckSiege/PictureSelector/raw/master/image/2.jpg"/>
+  <img src="https://github.com/LuckSiege/PictureSelector/raw/master/image/8.jpg"/>
+  
+  <h3>图片/视频文件选择器 RxGalleryFinal</h3>
+  <a href="https://github.com/FinalTeam/RxGalleryFinal">传送门 是一个android图片/视频文件选择器。其支持多选、单选、拍摄和裁剪，主题可自定义，无强制绑定第三方图片加载器</a></br>
+
+
