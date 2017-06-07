@@ -21,6 +21,14 @@
 <h3>一个比较好的android流行框架速查表</h3>
 <a href="http://www.ctolib.com/cheatsheets-Android-ch.html">传送门</a>
 
+<h3>多状态加载布局,页面加载开始动画，页面加载失败等的展示</h3>
+  <a href="https://github.com/gturedi/StatefulLayout">StatefulLayout</a>
+  <a href="https://github.com/vlonjatg/progress-activity">progress-activity</a>
+  <a href="https://github.com/lufficc/StateLayout">StateLayout</a>
+  <a href="https://github.com/qyxxjd/MultipleStatusView">MultipleStatusView</a>
+  
+  
+  
 <h3>一步步打造万能的 Android 刮奖效果控件</h3>
 <a href="https://www.diycode.cc/topics/287">传送门</a>
 <img src="https://diycode.b0.upaiyun.com/photo/2016/227a46ac5c83c6fca1f8e423e5788c6b.gif"/>
