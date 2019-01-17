@@ -1,6 +1,5 @@
-# learn-github-project
 
-<h1>一些比较好的project </h1>
+<h1>一些比较好的android project </h1>
 
 <h2>源码，框架</h2>
 <h3>阅读源码的经验总结</h3>
@@ -18,7 +17,7 @@
 <a href="https://www.jianshu.com/p/c76facb61d69">如何制作模版</a>
 <img src="https://camo.githubusercontent.com/237f0a1fbbf370efcbaff804f0b5fb8b7253ee49/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313631313038313830323435303933"/>
 
-<h2>总结的一些android开源组建库 原文: http://www.jiaoyigui.cn//android-librarys/Index/　　作者: Zero</h2>
+<h3>总结的一些android开源组建库 原文: http://www.jiaoyigui.cn//android-librarys/Index/</h3>　
 <a href="http://www.jiaoyigui.cn/android-librarys/List/">列表 List </a></br>
 <a href="http://www.jiaoyigui.cn/android-librarys/Animation/">动画 Animation</a></br>
 <a href="http://www.jiaoyigui.cn/android-librarys/Image/">图片 Image</a></br>
@@ -34,9 +33,9 @@
 <a href="https://github.com/dalong982242260/AndroidCalendar">传送门</a>
 
 <h3>多状态加载布局,页面加载开始动画，页面加载失败等的展示</h3>
-  <a href="https://github.com/gturedi/StatefulLayout">StatefulLayout</a>
-  <a href="https://github.com/vlonjatg/progress-activity">progress-activity</a>
-  <a href="https://github.com/lufficc/StateLayout">StateLayout</a>
+  <a href="https://github.com/gturedi/StatefulLayout">StatefulLayout</a></br>
+  <a href="https://github.com/vlonjatg/progress-activity">progress-activity</a></br>
+  <a href="https://github.com/lufficc/StateLayout">StateLayout</a></br>
   <a href="https://github.com/qyxxjd/MultipleStatusView">MultipleStatusView</a>
   
 <h3>一步步打造万能的 Android 刮奖效果控件</h3>
